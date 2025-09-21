@@ -1,7 +1,7 @@
 Create a login and signup page in flutter.
 
 This amazing app is provided in open source. So, helpful contributions are highly appreciated.
-![image alt]([image_url](https://github.com/Murad098/LOGIN-AND-SIGN-UP-PAGE/blob/2db884f534016b7d1473340bc33955b0dfc6b439/register.jpg  ))
+![image alt]([image_url](https://github.com/Murad098/LOGIN-AND-SIGN-UP-PAGE/blob/2db884f534016b7d1473340bc33955b0dfc6b439/register.jpg)
 
 
 ScreenShots
@@ -24,6 +24,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
